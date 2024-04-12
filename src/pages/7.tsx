@@ -389,7 +389,7 @@ export default function Fifth_SP() {
           <div className="tap-direction">👇 TAP BELOW TO CALL 👇</div>
           <a href="tel:+18775370627">
             <div className="call-btn" onClick={handleCall}>
-            CALL tel:8775370627
+            CALL (877) 537-0627
             </div>
           </a>
           <div className="sub-title">We Have Reserved Your Spot</div>
